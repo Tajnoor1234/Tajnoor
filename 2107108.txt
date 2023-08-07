@@ -1,0 +1,43 @@
+Enter your name: Tajnoor
+Available flavors and prices:
+1. Vanilla (Regular) - tk 30
+2. Chocolate (Premium) - tk 70
+3. Strawberry (Regular) - tk 30
+4. Mango (Vegan) - tk 40
+5. Pistachio (Premium) - tk 70
+Choose a flavor by entering its number: 2
+Enter the quantity of scoops you want: 4
+Your current total expenses are: tk 280
+Do you want to order more? (yes/no) yes
+Available flavors and prices:
+1. Vanilla (Regular) - tk 30
+2. Chocolate (Premium) - tk 70
+3. Strawberry (Regular) - tk 30
+4. Mango (Vegan) - tk 40
+5. Pistachio (Premium) - tk 70
+Choose a flavor by entering its number: 4
+Enter the quantity of scoops you want: 3
+Your current total expenses are: tk 400
+Do you want to order more? (yes/no) yes
+Available flavors and prices:
+1. Vanilla (Regular) - tk 30
+2. Chocolate (Premium) - tk 70
+3. Strawberry (Regular) - tk 30
+4. Mango (Vegan) - tk 40
+5. Pistachio (Premium) - tk 70
+Choose a flavor by entering its number: 1
+Enter the quantity of scoops you want: 6
+Your current total expenses are: tk 580
+Do you want to order more? (yes/no) no
+Customer name: Tajnoor
+Orders:
+1. Chocolate (Premium) - 4 scoop(s) - tk 280
+2. Mango (Vegan) - 3 scoop(s) - tk 120
+3. Vanilla (Regular) - 6 scoop(s) - tk 180
+Total: tk 580
+
+
+Process returned 0 (0x0)   execution time : 35.962 s
+Press any key to continue.
+
+
